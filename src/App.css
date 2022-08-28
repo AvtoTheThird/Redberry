@@ -68,4 +68,38 @@ a {
   margin: auto;
   margin-top: 90px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 15px;
+}
+form {
+  display: grid;
+  justify-content: center;
+}
+input[type="text"],
+select {
+  padding: 12px 20px;
+  margin: 30px 0;
+  border: 1px solid #62a1eb;
+  border-radius: 4px;
+}
+
+.name-input {
+  width: 455px;
+}
+.lastname-input {
+  width: 455px;
+}
+
+.team-input {
+  width: 926px;
+  background-color: #ebebeb;
+}
+.pozicia-input {
+  width: 926px;
+  background-color: #ebebeb;
+}
+.mail-input {
+  width: 926px;
+}
+.phone-input {
+  width: 926px;
 }
