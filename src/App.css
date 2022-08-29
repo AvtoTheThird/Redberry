@@ -103,3 +103,36 @@ select {
 .phone-input {
   width: 926px;
 }
+input.name-input-error,
+select.name-input-error {
+  border-color: #fc8181;
+  width: 455px;
+}
+input.lastname-input-error,
+select.lastname-input-error {
+  border-color: #fc8181;
+  width: 455px;
+}
+
+.error {
+  font-size: 15px;
+  margin: auto;
+  color: red;
+}
+input.email-input-error,
+select.email-input-error {
+  border-color: #fc8181;
+  width: 926px;
+}
+input.number-input-error,
+select.number-input-error {
+  border-color: #fc8181;
+  width: 926px;
+}
+.submit-button {
+  background-color: #62a1eb;
+  width: 176px;
+  height: 40px;
+  border-radius: 15px;
+  border: none;
+}
