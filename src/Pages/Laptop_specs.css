@@ -1,0 +1,36 @@
+label {
+  color: grey;
+  margin: auto;
+}
+
+.divi {
+  width: 1226px;
+  height: 1571px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 15px;
+  background-color: white;
+  margin: auto;
+}
+input {
+  margin: auto;
+}
+select {
+  margin: auto;
+}
+.row-1 {
+  display: flex;
+}
+
+.row-2 {
+  display: flex;
+}
+.row-3 {
+  display: flex;
+}
+.line {
+  background-color: grey;
+  font-size: 3px;
+  border-radius: 50px;
+  width: 878px;
+  margin: auto;
+}
